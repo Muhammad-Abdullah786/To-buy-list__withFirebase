@@ -1,0 +1,20 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 200px; */
+
+}
+#usrInput{
+    font-size: 20px;
+    width: 70%;
+}
+#btn{
+    font-size: 20px;
+}
